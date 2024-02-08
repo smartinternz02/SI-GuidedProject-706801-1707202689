@@ -75,3 +75,4 @@ Project  Structure:
 
 Create the Project folder which contains files as shown below:
 
+![image1](https://github.com/smartinternz02/SI-GuidedProject-706801-1707202689/assets/76167753/a245a0a1-e8f7-4ce0-9ad9-d32cbbb53ca4)
