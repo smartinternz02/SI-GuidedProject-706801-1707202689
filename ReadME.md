@@ -6,7 +6,7 @@ Amazon is an American multinational technology company focusing on e-commerce, c
 
 Website : [Click Here](https://www.amazon.com)
 
-
+My Github repo link : [Click here](https://github.com/lingeshwaran05/Katalon_Git_Integration)
 
 Project flow:
 
